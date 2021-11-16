@@ -5,7 +5,7 @@ using namespace std;
 
 const int testNum = 6;
 
-int main(){
-    cout << testNum << endl;
-    cout << "hello" << endl;
+int main()
+{
+    cout << "Hello world!" << endl;
 }
